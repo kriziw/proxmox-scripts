@@ -12,10 +12,8 @@ This script installs [YCast](https://github.com/milaq/YCast) in a lightweight LX
 ## Usage
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/ycast-lxc/ycast-lxc-installer.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/kriziw/proxmox-scripts/edit/main/ycast-lxc/main/ycast-lxc/ycast-lxc-installer.sh)"
 ```
-
-> Replace `YOUR_GITHUB_USERNAME/YOUR_REPO` with the actual GitHub path once published.
 
 ## Optional
 
