@@ -12,7 +12,7 @@ This script installs [YCast](https://github.com/milaq/YCast) in a lightweight LX
 ## Usage
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/kriziw/proxmox-scripts/edit/main/ycast-lxc/main/ycast-lxc/ycast-lxc-installer.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/kriziw/proxmox-scripts/edit//main/ycast-lxc/ycast-lxc-installer.sh)"
 ```
 
 ## Optional
